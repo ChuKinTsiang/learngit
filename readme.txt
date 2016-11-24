@@ -1,1 +1,1 @@
-git is amazing!
+git is free.
