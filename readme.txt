@@ -1,4 +1,4 @@
-git is a free software distrubuted...
+git is a free software.
 git is a distrubuted version of system.
 git is amazing!!!
 let's learn git today!
